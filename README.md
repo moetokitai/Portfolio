@@ -1,6 +1,4 @@
 
-https://user-images.githubusercontent.com/59639763/115835794-523e4780-a434-11eb-8ed6-47a0d273530c.mov
-
 # Portfolio
 This portfolio is a smalll project using HTML CSS JS and Bootstrap. 
 
