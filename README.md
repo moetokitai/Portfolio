@@ -2,7 +2,7 @@
 This portfolio is a smalll project using HTML CSS JS and Bootstrap. 
 
 Click this : [Live Heroku Deployment](https://portfolio-moeto.herokuapp.com/)
-![image](https://user-images.githubusercontent.com/59639763/115832621-b828d000-a430-11eb-9c28-90aa0d3a8b84.png)
+![image](https://user-images.githubusercontent.com/59639763/115835155-9a109f00-a433-11eb-93e9-3580a6aeaea2.mov)
 
 
 # Tecknologies used 
@@ -15,3 +15,5 @@ Click this : [Live Heroku Deployment](https://portfolio-moeto.herokuapp.com/)
  
 # Hoe to use?
  Use this teplate to build your own portfolio
+
+
